@@ -200,5 +200,8 @@ Uses `ETag` / `Last-Modified` headers — only downloads if data has changed. St
 
 ## Preview
 
-- See [EthioRoute](./ethioroute.jpg)
+- See [EthioRoute](./ethioroute.png)
+
+---
+
 Map data © [OpenStreetMap](https://openstreetmap.org) contributors · Tiles © [CARTO](https://carto.com) · Transit data © [Digital Transport for Africa](https://digitaltransport4africa.org)
