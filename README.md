@@ -3,6 +3,7 @@
 > Landmark-first navigation & real-time transit for Addis Ababa.
 
 ---
+# The EthioRoute application is currently available upon request only
 
 ## 🚀 Quick Start
 
