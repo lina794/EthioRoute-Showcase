@@ -7,6 +7,8 @@
 
 ## 🚀 Quick Start
 
+https://ethio-route.vercel.app
+
 No build step, no bundler. Requires a local HTTP server (Service Worker and Fetch API do not work over `file://`):
 
 ```powershell
